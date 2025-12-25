@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Twin Ray",
+  "base_artist": "LustQueen",
+  "createdAt": "2025-12-25T15:29:11.258116Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Twin Ray",
+      "artist": "佐々木恵梨",
+      "has_synced": true,
+      "path": "select/01_Twin_Ray_佐々木恵梨.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Twin Ray",
+      "artist": "RIEHATA",
+      "has_synced": true,
+      "path": "select/02_Twin_Ray_RIEHATA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Twin Ray",
+      "artist": "佐々木恵梨",
+      "has_synced": true,
+      "path": "select/03_Twin_Ray_佐々木恵梨.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Twin Ray",
+      "artist": "Eri Sasaki",
+      "has_synced": true,
+      "path": "select/04_Twin_Ray_Eri_Sasaki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Evil Twin",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/05_Evil_Twin_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lost You (feat. Twin Shadow & D'Angelo Lacy)",
+      "artist": "Zeds Dead",
+      "has_synced": false,
+      "path": "select/06_Lost_You_(feat._Twin_Shadow_&_D'Angelo_Lacy)_Zeds_Dead.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Evil Twin feat. Otto von Schirach",
+      "artist": "Modeselektor feat. Otto von Schirach",
+      "has_synced": true,
+      "path": "select/07_Evil_Twin_feat._Otto_von_Schirach_Modeselektor_feat._Otto_von_Schirach.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Evil Twin (feat. Otto Von Schirach)",
+      "artist": "Modeselektor",
+      "has_synced": false,
+      "path": "select/08_Evil_Twin_(feat._Otto_Von_Schirach)_Modeselektor.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Wish I Had an Evil Twin",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/09_I_Wish_I_Had_an_Evil_Twin_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Twin Cinema",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/10_Twin_Cinema_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Twin",
+      "artist": "Oslo Parks",
+      "has_synced": true,
+      "path": "select/11_Twin_Oslo_Parks.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Evil Twin",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/12_Evil_Twin_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Twin Of Myself (Original)",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": true,
+      "path": "select/13_Twin_Of_Myself_(Original)_Black_Moth_Super_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Twin of Myself",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": true,
+      "path": "select/14_Twin_of_Myself_Black_Moth_Super_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cow Cud Is A Twin",
+      "artist": "Aphex Twin",
+      "has_synced": true,
+      "path": "select/15_Cow_Cud_Is_A_Twin_Aphex_Twin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Krieger - Aphex Twin Baldhu Mix",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": false,
+      "path": "select/16_Krieger_-_Aphex_Twin_Baldhu_Mix_Die_Fantastischen_Vier.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Krieger (Aphex Twin Baldhu Mix)",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": false,
+      "path": "select/17_Krieger_(Aphex_Twin_Baldhu_Mix)_Die_Fantastischen_Vier.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Identical Twin",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/18_Identical_Twin_Hooverphonic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Twin Ray",
+      "artist": "LustQueen",
+      "has_synced": false,
+      "path": "select/pl_01_Twin_Ray_LustQueen.txt"
+    }
+  ]
+}
